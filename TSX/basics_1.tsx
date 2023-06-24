@@ -48,6 +48,7 @@ let myElement6=<h1>{(x)<10?"Hello":"Goodbye"}</h1>
 // this doesn't work
 // because nextjs is a server side rendering framework
 // cant handle client side rendering
+
 // class Car1 extends React.Component {
 //   render() {
 //     return <h2>Hi, I am a car!</h2>;
