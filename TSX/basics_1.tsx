@@ -24,7 +24,7 @@ const myElement2=(
 // <> </> --> this is a fragment
 const myElement3=(
   <> 
-    <p>Maharora</p>
+    <p>Maha-arora</p>
     <p>chaharoro</p>
   </>
 )
