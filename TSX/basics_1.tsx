@@ -27,8 +27,9 @@ const myElement2=(
 );
 
 // Container Variable (Fragment)
+// <> </> --> this is a fragment
 const myElement3=(
-  <> // this is a fragment
+  <> 
     <p>Maharora</p>
     <p>chaharoro</p>
   </>
