@@ -2,12 +2,6 @@
 
 // Import Dependencies
 import React from 'react'
-import { useEffect } from 'react'
-import ReactDom from 'react-dom'
-import Link from 'next/link'
-import Image from 'next/image'
-import Head from 'next/head'
-import styles from './styles.module.css'
 
 // Container Variable (Paragraph)
 const myElement=(
