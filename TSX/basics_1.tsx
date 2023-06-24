@@ -1,3 +1,6 @@
+// Learning Typescript and JSX language
+
+// Import Dependencies
 import React from 'react'
 import { useEffect } from 'react'
 import ReactDom from 'react-dom'
@@ -84,8 +87,8 @@ const his =()=>{
   )
 }
 
-
-export default function Home() {
+// the final App (page which contains all the required container items in order)
+export default function App() {
   return (
     <>
     <header><p>head</p></header>
